@@ -127,11 +127,12 @@ streamlit run src/app_workforce_shift.py
 
 ## 👤 About
 
-**Chloe Nguyen** — Business/Data Analyst based in Sydney, Australia
+**Chloe Nguyen** — Business & Data Analyst based in Sydney, Australia
 
-- 4+ years BA experience
 - Master of Business Analytics, Melbourne Institute of Technology
-- Targeting DA/BA roles across finance, consulting, and government sectors
+- Previous experience in Business Analysis and Product Operations
+  across the Vietnamese market
+- Seeking DA and BA roles in Australia
+- Full working rights in Australia
 
-*This portfolio uses real Australian data sources to analyse economic
-trends and labour market shifts relevant to the Australian market.*
+*This portfolio uses real Australian data sources — RBA, ABS, ANZ-Roy Morgan, and Jobs and Skills Australia — to demonstrate end-to-end analytical capability: from raw data ingestion and SQL querying to interactive dashboard deployment.*
