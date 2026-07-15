@@ -10,8 +10,8 @@ import streamlit as st
 import pandas as pd
 import plotly.express as px
 import plotly.graph_objects as go
-import sqlite3
 import os
+from pathlib import Path
 
 # ── Page config ─────────────────────────────────────────────────────────────
 st.set_page_config(
@@ -51,17 +51,11 @@ st.markdown("""
 # ── Load data ────────────────────────────────────────────────────────────────
 @st.cache_data
 def load_data():
-    base = os.path.expanduser("~/portfolio")
-    db   = os.path.join(base, "data", "portfolio.db")
+    # Works both locally and on Streamlit Cloud
+    base = Path(__file__).parent.parent
 
-    if os.path.exists(db):
-        conn   = sqlite3.connect(db)
-        abs_df = pd.read_sql("SELECT * FROM abs_labour_force", conn, parse_dates=["date"])
-        jsa    = pd.read_sql("SELECT * FROM jsa_projections",  conn)
-        conn.close()
-    else:
-        abs_df = pd.read_csv(os.path.join(base, "data", "raw", "abs_labour_force.csv"), parse_dates=["date"])
-        jsa    = pd.read_csv(os.path.join(base, "data", "raw", "jsa_projections.csv"))
+    abs_df = pd.read_csv(base / "data" / "raw" / "abs_labour_force.csv", parse_dates=["date"])
+    jsa    = pd.read_csv(base / "data" / "raw" / "jsa_projections.csv")
 
     # Latest quarter
     latest   = abs_df["date"].max()

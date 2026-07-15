@@ -10,8 +10,8 @@ import streamlit as st
 import pandas as pd
 import plotly.graph_objects as go
 from plotly.subplots import make_subplots
-import sqlite3
 import os
+from pathlib import Path
 
 # ── Page config ─────────────────────────────────────────────────────────────
 st.set_page_config(
@@ -51,19 +51,13 @@ st.markdown("""
 # ── Load data ────────────────────────────────────────────────────────────────
 @st.cache_data
 def load_data():
-    base = os.path.expanduser("~/portfolio")
-    db   = os.path.join(base, "data", "portfolio.db")
+    # Works both locally and on Streamlit Cloud
+    # On Streamlit Cloud, files are relative to repo root
+    base = Path(__file__).parent.parent
 
-    if os.path.exists(db):
-        conn = sqlite3.connect(db)
-        rba  = pd.read_sql("SELECT * FROM rba_decisions",  conn, parse_dates=["date"])
-        sent = pd.read_sql("SELECT * FROM sentiment_index", conn, parse_dates=["date"])
-        trnd = pd.read_sql("SELECT * FROM google_trends",   conn, parse_dates=["date"])
-        conn.close()
-    else:
-        rba  = pd.read_csv(os.path.join(base, "data", "raw", "rba_decisions.csv"),  parse_dates=["date"])
-        sent = pd.read_csv(os.path.join(base, "data", "raw", "sentiment_index.csv"), parse_dates=["date"])
-        trnd = pd.read_csv(os.path.join(base, "data", "raw", "google_trends.csv"),   parse_dates=["date"])
+    rba  = pd.read_csv(base / "data" / "raw" / "rba_decisions.csv",  parse_dates=["date"])
+    sent = pd.read_csv(base / "data" / "raw" / "sentiment_index.csv", parse_dates=["date"])
+    trnd = pd.read_csv(base / "data" / "raw" / "google_trends.csv",   parse_dates=["date"])
 
     # Align to month start
     for df in [rba, sent, trnd]:
