@@ -1,0 +1,20 @@
+industry,industry_code,baseline_2025,projected_2030,projected_new_jobs_000s,annual_growth_pct,growth_5yr_pct,projection_period,source
+"Agriculture, Forestry and Fishing",A,305.41192969756514,303.808793858171,-1.6,-0.11,-0.52,2025-2030,Jobs and Skills Australia — May 2025 Employment Projections
+Mining,B,322.61504498518354,340.7179445016132,18.1,1.1,5.61,2025-2030,Jobs and Skills Australia — May 2025 Employment Projections
+Manufacturing,C,874.2653883256654,917.2446590612486,42.98,0.96,4.92,2025-2030,Jobs and Skills Australia — May 2025 Employment Projections
+"Electricity, Gas, Water and Waste Services",D,198.56931549996366,210.39668326017886,11.83,1.16,5.96,2025-2030,Jobs and Skills Australia — May 2025 Employment Projections
+Construction,E,1347.967555583618,1441.499149965918,93.53,1.35,6.94,2025-2030,Jobs and Skills Australia — May 2025 Employment Projections
+Wholesale Trade,F,359.4841369884661,381.31521567079704,21.83,1.19,6.07,2025-2030,Jobs and Skills Australia — May 2025 Employment Projections
+Retail trade,G,1346.9921262599732,1381.3296596489502,34.34,0.5,2.55,2025-2030,Jobs and Skills Australia — May 2025 Employment Projections
+Accommodation and Food Services,H,962.0890712508475,995.4513889229369,33.36,0.68,3.47,2025-2030,Jobs and Skills Australia — May 2025 Employment Projections
+"Transport, Postal and Warehousing",I,754.1268958222337,780.2459881093046,26.12,0.68,3.46,2025-2030,Jobs and Skills Australia — May 2025 Employment Projections
+Information Media and Telecommunications,J,184.72895462806815,193.30842884980737,8.58,0.91,4.64,2025-2030,Jobs and Skills Australia — May 2025 Employment Projections
+Financial and Insurance Services,K,572.0776260823507,608.5796210882937,36.5,1.24,6.38,2025-2030,Jobs and Skills Australia — May 2025 Employment Projections
+"Rental, Hiring and Real Estate Services",L,244.53553770840108,262.01324340256326,17.48,1.39,7.15,2025-2030,Jobs and Skills Australia — May 2025 Employment Projections
+"Professional, Scientific and Technical Services",M,1351.6315592771289,1488.271783267512,136.64,1.94,10.11,2025-2030,Jobs and Skills Australia — May 2025 Employment Projections
+Administrative and Support Services,N,429.7546788808001,445.1561643542947,15.4,0.71,3.58,2025-2030,Jobs and Skills Australia — May 2025 Employment Projections
+Public Administration and Safety,O,988.9818275855296,1062.1345643074021,73.15,1.44,7.4,2025-2030,Jobs and Skills Australia — May 2025 Employment Projections
+Education and Training,P,1267.617770452727,1339.6953326081557,72.08,1.11,5.69,2025-2030,Jobs and Skills Australia — May 2025 Employment Projections
+Healthcare and Social Assistance,Q,2369.3115307397197,2659.63672203546,290.33,2.34,12.25,2025-2030,Jobs and Skills Australia — May 2025 Employment Projections
+Arts and Recreation Services,R,274.1461219232638,288.4813742090745,14.34,1.02,5.23,2025-2030,Jobs and Skills Australia — May 2025 Employment Projections
+Other Services,S,546.6807060542297,562.6702258103405,15.99,0.58,2.92,2025-2030,Jobs and Skills Australia — May 2025 Employment Projections

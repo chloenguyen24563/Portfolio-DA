@@ -1,0 +1,140 @@
+date,new_rate,rate_change,decision,era
+2015-01-02,2.5,0.0,hold,low-rate era
+2015-02-02,2.5,-0.25,cut,low-rate era
+2015-03-02,2.25,0.0,hold,low-rate era
+2015-04-01,2.25,0.0,hold,low-rate era
+2015-05-01,2.25,-0.25,cut,low-rate era
+2015-06-01,2.0,0.0,hold,low-rate era
+2015-07-01,2.0,0.0,hold,low-rate era
+2015-08-03,2.0,0.0,hold,low-rate era
+2015-09-01,2.0,0.0,hold,low-rate era
+2015-10-01,2.0,0.0,hold,low-rate era
+2015-11-02,2.0,0.0,hold,low-rate era
+2015-12-01,2.0,0.0,hold,low-rate era
+2016-01-04,2.0,0.0,hold,low-rate era
+2016-02-01,2.0,0.0,hold,low-rate era
+2016-03-01,2.0,0.0,hold,low-rate era
+2016-04-01,2.0,0.0,hold,low-rate era
+2016-05-02,2.0,-0.25,cut,low-rate era
+2016-06-01,1.75,0.0,hold,low-rate era
+2016-07-01,1.75,0.0,hold,low-rate era
+2016-08-01,1.75,-0.25,cut,low-rate era
+2016-09-01,1.5,0.0,hold,low-rate era
+2016-10-03,1.5,0.0,hold,low-rate era
+2016-11-01,1.5,0.0,hold,low-rate era
+2016-12-01,1.5,0.0,hold,low-rate era
+2017-01-03,1.5,0.0,hold,low-rate era
+2017-02-01,1.5,0.0,hold,low-rate era
+2017-03-01,1.5,0.0,hold,low-rate era
+2017-04-03,1.5,0.0,hold,low-rate era
+2017-05-01,1.5,0.0,hold,low-rate era
+2017-06-01,1.5,0.0,hold,low-rate era
+2017-07-03,1.5,0.0,hold,low-rate era
+2017-08-01,1.5,0.0,hold,low-rate era
+2017-09-01,1.5,0.0,hold,low-rate era
+2017-10-02,1.5,0.0,hold,low-rate era
+2017-11-01,1.5,0.0,hold,low-rate era
+2017-12-01,1.5,0.0,hold,low-rate era
+2018-01-02,1.5,0.0,hold,low-rate era
+2018-02-01,1.5,0.0,hold,low-rate era
+2018-03-01,1.5,0.0,hold,low-rate era
+2018-04-03,1.5,0.0,hold,low-rate era
+2018-05-01,1.5,0.0,hold,low-rate era
+2018-06-01,1.5,0.0,hold,low-rate era
+2018-07-02,1.5,0.0,hold,low-rate era
+2018-08-01,1.5,0.0,hold,low-rate era
+2018-09-03,1.5,0.0,hold,low-rate era
+2018-10-01,1.5,0.0,hold,low-rate era
+2018-11-01,1.5,0.0,hold,low-rate era
+2018-12-03,1.5,0.0,hold,low-rate era
+2019-01-02,1.5,0.0,hold,pre-COVID
+2019-02-01,1.5,0.0,hold,pre-COVID
+2019-03-01,1.5,0.0,hold,pre-COVID
+2019-04-01,1.5,0.0,hold,pre-COVID
+2019-05-01,1.5,0.0,hold,pre-COVID
+2019-06-03,1.5,-0.25,cut,pre-COVID
+2019-07-01,1.25,-0.25,cut,pre-COVID
+2019-08-01,1.0,0.0,hold,pre-COVID
+2019-09-02,1.0,0.0,hold,pre-COVID
+2019-10-01,1.0,-0.25,cut,pre-COVID
+2019-11-01,0.75,0.0,hold,pre-COVID
+2019-12-02,0.75,0.0,hold,pre-COVID
+2020-01-02,0.75,0.0,hold,COVID
+2020-02-03,0.75,0.0,hold,COVID
+2020-03-02,0.75,-0.25,cut,COVID
+2020-03-02,0.75,-0.25,cut,COVID
+2020-04-01,0.25,0.0,hold,COVID
+2020-05-01,0.25,0.0,hold,COVID
+2020-06-01,0.25,0.0,hold,COVID
+2020-07-01,0.25,0.0,hold,COVID
+2020-08-03,0.25,0.0,hold,COVID
+2020-09-01,0.25,0.0,hold,COVID
+2020-10-01,0.25,0.0,hold,COVID
+2020-11-02,0.25,-0.15,cut,COVID
+2020-12-01,0.1,0.0,hold,COVID
+2021-01-04,0.1,0.0,hold,COVID
+2021-02-01,0.1,0.0,hold,COVID
+2021-03-01,0.1,0.0,hold,COVID
+2021-04-01,0.1,0.0,hold,COVID
+2021-05-03,0.1,0.0,hold,COVID
+2021-06-01,0.1,0.0,hold,COVID
+2021-07-01,0.1,0.0,hold,COVID
+2021-08-02,0.1,0.0,hold,COVID
+2021-09-01,0.1,0.0,hold,COVID
+2021-10-01,0.1,0.0,hold,COVID
+2021-11-01,0.1,0.0,hold,COVID
+2021-12-01,0.1,0.0,hold,COVID
+2022-01-04,0.1,0.0,hold,hiking cycle
+2022-02-01,0.1,0.0,hold,hiking cycle
+2022-03-01,0.1,0.0,hold,hiking cycle
+2022-04-01,0.1,0.0,hold,hiking cycle
+2022-05-02,0.1,0.25,hike,hiking cycle
+2022-06-01,0.35,0.5,hike,hiking cycle
+2022-07-01,0.85,0.5,hike,hiking cycle
+2022-08-01,1.35,0.5,hike,hiking cycle
+2022-09-01,1.85,0.5,hike,hiking cycle
+2022-10-03,2.35,0.25,hike,hiking cycle
+2022-11-01,2.6,0.25,hike,hiking cycle
+2022-12-01,2.85,0.25,hike,hiking cycle
+2023-01-03,3.1,0.0,hold,hiking cycle
+2023-02-01,3.1,0.25,hike,hiking cycle
+2023-03-01,3.35,0.25,hike,hiking cycle
+2023-04-03,3.6,0.0,hold,hiking cycle
+2023-05-01,3.6,0.25,hike,hiking cycle
+2023-06-01,3.85,0.25,hike,hiking cycle
+2023-07-03,4.1,0.0,hold,hiking cycle
+2023-08-01,4.1,0.0,hold,hiking cycle
+2023-09-01,4.1,0.0,hold,hiking cycle
+2023-10-02,4.1,0.0,hold,hiking cycle
+2023-11-01,4.1,0.25,hike,hiking cycle
+2023-12-01,4.35,0.0,hold,hiking cycle
+2024-01-02,4.35,0.0,hold,post-hike
+2024-02-01,4.35,0.0,hold,post-hike
+2024-03-01,4.35,0.0,hold,post-hike
+2024-04-02,4.35,0.0,hold,post-hike
+2024-05-01,4.35,0.0,hold,post-hike
+2024-06-03,4.35,0.0,hold,post-hike
+2024-07-01,4.35,0.0,hold,post-hike
+2024-08-01,4.35,0.0,hold,post-hike
+2024-09-02,4.35,0.0,hold,post-hike
+2024-10-01,4.35,0.0,hold,post-hike
+2024-11-01,4.35,0.0,hold,post-hike
+2024-12-02,4.35,0.0,hold,post-hike
+2025-01-02,4.35,0.0,hold,post-hike
+2025-02-03,4.35,-0.25,cut,post-hike
+2025-03-03,4.1,0.0,hold,post-hike
+2025-04-01,4.1,0.0,hold,post-hike
+2025-05-01,4.1,-0.25,cut,post-hike
+2025-06-02,3.85,0.0,hold,post-hike
+2025-07-01,3.85,0.0,hold,post-hike
+2025-08-01,3.85,-0.25,cut,post-hike
+2025-09-01,3.6,0.0,hold,post-hike
+2025-10-01,3.6,0.0,hold,post-hike
+2025-11-03,3.6,0.0,hold,post-hike
+2025-12-01,3.6,0.0,hold,post-hike
+2026-01-02,3.6,0.0,hold,post-hike
+2026-02-02,3.6,0.25,hike,post-hike
+2026-03-02,3.85,0.25,hike,post-hike
+2026-04-01,4.1,0.0,hold,post-hike
+2026-05-01,4.1,0.25,hike,post-hike
+2026-06-01,4.35,0.0,hold,post-hike

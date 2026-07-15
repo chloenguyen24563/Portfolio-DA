@@ -1,0 +1,553 @@
+date,keyword,keyword_group,search_volume,search_volume_raw,rolling_6m,is_spike
+2015-01-01,RBA interest rate,awareness,4.0,4.0,,False
+2015-02-01,RBA interest rate,awareness,12.0,20.0,,False
+2015-03-01,RBA interest rate,awareness,12.7,14.0,12.666666666666666,False
+2015-04-01,RBA interest rate,awareness,16.0,14.0,13.0,False
+2015-05-01,RBA interest rate,awareness,17.3,24.0,15.2,True
+2015-06-01,RBA interest rate,awareness,15.0,7.0,13.833333333333334,False
+2015-07-01,RBA interest rate,awareness,12.3,6.0,14.166666666666666,False
+2015-08-01,RBA interest rate,awareness,6.7,7.0,12.0,False
+2015-09-01,RBA interest rate,awareness,6.7,7.0,10.833333333333334,False
+2015-10-01,RBA interest rate,awareness,7.7,9.0,10.0,False
+2015-11-01,RBA interest rate,awareness,11.3,18.0,9.0,True
+2015-12-01,RBA interest rate,awareness,10.3,4.0,8.5,False
+2016-01-01,RBA interest rate,awareness,8.3,3.0,8.0,False
+2016-02-01,RBA interest rate,awareness,3.7,4.0,7.5,False
+2016-03-01,RBA interest rate,awareness,3.3,3.0,6.833333333333333,False
+2016-04-01,RBA interest rate,awareness,5.0,8.0,6.666666666666667,False
+2016-05-01,RBA interest rate,awareness,11.7,24.0,7.666666666666667,True
+2016-06-01,RBA interest rate,awareness,12.3,5.0,7.833333333333333,False
+2016-07-01,RBA interest rate,awareness,11.3,5.0,8.166666666666666,False
+2016-08-01,RBA interest rate,awareness,8.0,14.0,9.833333333333334,False
+2016-09-01,RBA interest rate,awareness,9.0,8.0,10.666666666666666,False
+2016-10-01,RBA interest rate,awareness,9.3,6.0,10.333333333333334,False
+2016-11-01,RBA interest rate,awareness,6.7,6.0,7.333333333333333,False
+2016-12-01,RBA interest rate,awareness,6.3,7.0,7.666666666666667,False
+2017-01-01,RBA interest rate,awareness,5.3,3.0,7.333333333333333,False
+2017-02-01,RBA interest rate,awareness,5.0,5.0,5.833333333333333,False
+2017-03-01,RBA interest rate,awareness,4.7,6.0,5.5,False
+2017-04-01,RBA interest rate,awareness,6.0,7.0,5.666666666666667,False
+2017-05-01,RBA interest rate,awareness,6.3,6.0,5.666666666666667,False
+2017-06-01,RBA interest rate,awareness,6.3,6.0,5.5,False
+2017-07-01,RBA interest rate,awareness,6.3,7.0,6.166666666666667,False
+2017-08-01,RBA interest rate,awareness,6.0,5.0,6.166666666666667,False
+2017-09-01,RBA interest rate,awareness,5.7,5.0,6.0,False
+2017-10-01,RBA interest rate,awareness,5.3,6.0,5.833333333333333,False
+2017-11-01,RBA interest rate,awareness,5.3,5.0,5.666666666666667,False
+2017-12-01,RBA interest rate,awareness,5.0,4.0,5.333333333333333,False
+2018-01-01,RBA interest rate,awareness,4.3,4.0,4.833333333333333,False
+2018-02-01,RBA interest rate,awareness,4.7,6.0,5.0,False
+2018-03-01,RBA interest rate,awareness,5.0,5.0,5.0,False
+2018-04-01,RBA interest rate,awareness,5.3,5.0,4.833333333333333,False
+2018-05-01,RBA interest rate,awareness,5.0,5.0,4.833333333333333,False
+2018-06-01,RBA interest rate,awareness,5.0,5.0,5.0,False
+2018-07-01,RBA interest rate,awareness,5.0,5.0,5.166666666666667,False
+2018-08-01,RBA interest rate,awareness,4.7,4.0,4.833333333333333,False
+2018-09-01,RBA interest rate,awareness,4.7,5.0,4.833333333333333,False
+2018-10-01,RBA interest rate,awareness,4.7,5.0,4.833333333333333,False
+2018-11-01,RBA interest rate,awareness,4.7,4.0,4.666666666666667,False
+2018-12-01,RBA interest rate,awareness,4.0,3.0,4.333333333333333,False
+2019-01-01,RBA interest rate,awareness,3.7,4.0,4.166666666666667,False
+2019-02-01,RBA interest rate,awareness,4.3,6.0,4.5,False
+2019-03-01,RBA interest rate,awareness,5.3,6.0,4.666666666666667,False
+2019-04-01,RBA interest rate,awareness,6.0,6.0,4.833333333333333,False
+2019-05-01,RBA interest rate,awareness,10.3,19.0,7.333333333333333,True
+2019-06-01,RBA interest rate,awareness,13.7,16.0,9.5,True
+2019-07-01,RBA interest rate,awareness,19.3,23.0,12.666666666666666,True
+2019-08-01,RBA interest rate,awareness,15.3,7.0,12.833333333333334,False
+2019-09-01,RBA interest rate,awareness,13.0,9.0,13.333333333333334,False
+2019-10-01,RBA interest rate,awareness,10.7,16.0,15.0,False
+2019-11-01,RBA interest rate,awareness,11.0,8.0,13.166666666666666,False
+2019-12-01,RBA interest rate,awareness,9.7,5.0,11.333333333333334,False
+2020-01-01,RBA interest rate,awareness,6.3,6.0,8.5,False
+2020-02-01,RBA interest rate,awareness,6.3,8.0,8.666666666666666,False
+2020-03-01,RBA interest rate,awareness,14.3,29.0,12.0,True
+2020-04-01,RBA interest rate,awareness,14.7,7.0,10.5,False
+2020-05-01,RBA interest rate,awareness,13.7,5.0,10.0,False
+2020-06-01,RBA interest rate,awareness,6.0,6.0,10.166666666666666,False
+2020-07-01,RBA interest rate,awareness,5.3,5.0,10.0,False
+2020-08-01,RBA interest rate,awareness,5.3,5.0,9.5,False
+2020-09-01,RBA interest rate,awareness,5.3,6.0,5.666666666666667,False
+2020-10-01,RBA interest rate,awareness,6.3,8.0,5.833333333333333,False
+2020-11-01,RBA interest rate,awareness,11.0,19.0,8.166666666666666,True
+2020-12-01,RBA interest rate,awareness,10.0,3.0,7.666666666666667,False
+2021-01-01,RBA interest rate,awareness,8.3,3.0,7.333333333333333,False
+2021-02-01,RBA interest rate,awareness,3.3,4.0,7.166666666666667,False
+2021-03-01,RBA interest rate,awareness,3.7,4.0,6.833333333333333,False
+2021-04-01,RBA interest rate,awareness,4.3,5.0,6.333333333333333,False
+2021-05-01,RBA interest rate,awareness,4.3,4.0,3.8333333333333335,False
+2021-06-01,RBA interest rate,awareness,4.3,4.0,4.0,False
+2021-07-01,RBA interest rate,awareness,3.7,3.0,4.0,False
+2021-08-01,RBA interest rate,awareness,3.3,3.0,3.8333333333333335,False
+2021-09-01,RBA interest rate,awareness,3.3,4.0,3.8333333333333335,False
+2021-10-01,RBA interest rate,awareness,3.7,4.0,3.6666666666666665,False
+2021-11-01,RBA interest rate,awareness,5.7,9.0,4.5,True
+2021-12-01,RBA interest rate,awareness,5.3,3.0,4.333333333333333,False
+2022-01-01,RBA interest rate,awareness,5.7,5.0,4.666666666666667,False
+2022-02-01,RBA interest rate,awareness,5.3,8.0,5.5,False
+2022-03-01,RBA interest rate,awareness,6.7,7.0,6.0,False
+2022-04-01,RBA interest rate,awareness,9.7,14.0,7.666666666666667,True
+2022-05-01,RBA interest rate,awareness,24.7,53.0,15.0,True
+2022-06-01,RBA interest rate,awareness,39.3,51.0,23.0,True
+2022-07-01,RBA interest rate,awareness,48.3,41.0,29.0,False
+2022-08-01,RBA interest rate,awareness,40.0,28.0,32.333333333333336,False
+2022-09-01,RBA interest rate,awareness,37.0,42.0,38.166666666666664,False
+2022-10-01,RBA interest rate,awareness,33.0,29.0,40.666666666666664,False
+2022-11-01,RBA interest rate,awareness,36.0,37.0,38.0,False
+2022-12-01,RBA interest rate,awareness,33.0,33.0,35.0,False
+2023-01-01,RBA interest rate,awareness,29.0,17.0,31.0,False
+2023-02-01,RBA interest rate,awareness,33.7,51.0,34.833333333333336,False
+2023-03-01,RBA interest rate,awareness,35.7,39.0,34.333333333333336,False
+2023-04-01,RBA interest rate,awareness,38.7,26.0,33.833333333333336,False
+2023-05-01,RBA interest rate,awareness,37.0,46.0,35.333333333333336,False
+2023-06-01,RBA interest rate,awareness,40.3,49.0,38.0,False
+2023-07-01,RBA interest rate,awareness,49.3,53.0,44.0,False
+2023-08-01,RBA interest rate,awareness,42.7,26.0,39.833333333333336,False
+2023-09-01,RBA interest rate,awareness,35.0,26.0,37.666666666666664,False
+2023-10-01,RBA interest rate,awareness,26.7,28.0,38.0,False
+2023-11-01,RBA interest rate,awareness,36.3,55.0,39.5,False
+2023-12-01,RBA interest rate,awareness,32.3,14.0,33.666666666666664,False
+2024-01-01,RBA interest rate,awareness,27.0,12.0,26.833333333333332,False
+2024-02-01,RBA interest rate,awareness,14.0,16.0,25.166666666666668,False
+2024-03-01,RBA interest rate,awareness,16.7,22.0,24.5,False
+2024-04-01,RBA interest rate,awareness,17.7,15.0,22.333333333333332,False
+2024-05-01,RBA interest rate,awareness,18.0,17.0,16.0,False
+2024-06-01,RBA interest rate,awareness,17.7,21.0,17.166666666666668,False
+2024-07-01,RBA interest rate,awareness,18.3,17.0,18.0,False
+2024-08-01,RBA interest rate,awareness,19.3,20.0,18.666666666666668,False
+2024-09-01,RBA interest rate,awareness,23.0,32.0,20.333333333333332,True
+2024-10-01,RBA interest rate,awareness,22.0,14.0,20.166666666666668,False
+2024-11-01,RBA interest rate,awareness,21.7,19.0,20.5,False
+2024-12-01,RBA interest rate,awareness,16.7,17.0,19.833333333333332,False
+2025-01-01,RBA interest rate,awareness,18.0,18.0,20.0,False
+2025-02-01,RBA interest rate,awareness,45.0,100.0,33.333333333333336,True
+2025-03-01,RBA interest rate,awareness,44.0,14.0,30.333333333333332,False
+2025-04-01,RBA interest rate,awareness,48.7,32.0,33.333333333333336,False
+2025-05-01,RBA interest rate,awareness,33.0,53.0,39.0,False
+2025-06-01,RBA interest rate,awareness,35.0,20.0,39.5,False
+2025-07-01,RBA interest rate,awareness,36.0,35.0,42.333333333333336,False
+2025-08-01,RBA interest rate,awareness,31.0,38.0,32.0,False
+2025-09-01,RBA interest rate,awareness,30.3,18.0,32.666666666666664,False
+2025-10-01,RBA interest rate,awareness,22.3,11.0,29.166666666666668,False
+2025-11-01,RBA interest rate,awareness,13.7,12.0,22.333333333333332,False
+2025-12-01,RBA interest rate,awareness,11.0,10.0,20.666666666666668,False
+2026-01-01,RBA interest rate,awareness,11.0,11.0,16.666666666666668,False
+2026-02-01,RBA interest rate,awareness,16.3,28.0,15.0,True
+2026-03-01,RBA interest rate,awareness,23.0,30.0,17.0,True
+2026-04-01,RBA interest rate,awareness,24.3,15.0,17.666666666666668,False
+2026-05-01,RBA interest rate,awareness,27.7,38.0,22.0,True
+2026-06-01,RBA interest rate,awareness,29.3,35.0,26.166666666666668,False
+2015-01-01,fixed rate mortgage,behaviour_change,15.0,15.0,,False
+2015-02-01,fixed rate mortgage,behaviour_change,27.0,39.0,,False
+2015-03-01,fixed rate mortgage,behaviour_change,25.3,22.0,25.333333333333332,False
+2015-04-01,fixed rate mortgage,behaviour_change,29.7,28.0,26.0,False
+2015-05-01,fixed rate mortgage,behaviour_change,30.7,42.0,29.2,False
+2015-06-01,fixed rate mortgage,behaviour_change,31.0,23.0,28.166666666666668,False
+2015-07-01,fixed rate mortgage,behaviour_change,29.0,22.0,29.333333333333332,False
+2015-08-01,fixed rate mortgage,behaviour_change,21.7,20.0,26.166666666666668,False
+2015-09-01,fixed rate mortgage,behaviour_change,20.7,20.0,25.833333333333332,False
+2015-10-01,fixed rate mortgage,behaviour_change,21.7,25.0,25.333333333333332,False
+2015-11-01,fixed rate mortgage,behaviour_change,24.3,28.0,23.0,False
+2015-12-01,fixed rate mortgage,behaviour_change,22.3,14.0,21.5,False
+2016-01-01,fixed rate mortgage,behaviour_change,19.3,16.0,20.5,False
+2016-02-01,fixed rate mortgage,behaviour_change,16.7,20.0,20.5,False
+2016-03-01,fixed rate mortgage,behaviour_change,18.0,18.0,20.166666666666668,False
+2016-04-01,fixed rate mortgage,behaviour_change,18.0,16.0,18.666666666666668,False
+2016-05-01,fixed rate mortgage,behaviour_change,20.7,28.0,18.666666666666668,False
+2016-06-01,fixed rate mortgage,behaviour_change,21.7,21.0,19.833333333333332,False
+2016-07-01,fixed rate mortgage,behaviour_change,24.0,23.0,21.0,False
+2016-08-01,fixed rate mortgage,behaviour_change,24.0,28.0,22.333333333333332,False
+2016-09-01,fixed rate mortgage,behaviour_change,25.3,25.0,23.5,False
+2016-10-01,fixed rate mortgage,behaviour_change,24.7,21.0,24.333333333333332,False
+2016-11-01,fixed rate mortgage,behaviour_change,21.0,17.0,22.5,False
+2016-12-01,fixed rate mortgage,behaviour_change,19.7,21.0,22.5,False
+2017-01-01,fixed rate mortgage,behaviour_change,21.7,27.0,23.166666666666668,False
+2017-02-01,fixed rate mortgage,behaviour_change,22.7,20.0,21.833333333333332,False
+2017-03-01,fixed rate mortgage,behaviour_change,23.0,22.0,21.333333333333332,False
+2017-04-01,fixed rate mortgage,behaviour_change,21.3,22.0,21.5,False
+2017-05-01,fixed rate mortgage,behaviour_change,21.3,20.0,22.0,False
+2017-06-01,fixed rate mortgage,behaviour_change,19.3,16.0,21.166666666666668,False
+2017-07-01,fixed rate mortgage,behaviour_change,21.3,28.0,21.333333333333332,False
+2017-08-01,fixed rate mortgage,behaviour_change,20.7,18.0,21.0,False
+2017-09-01,fixed rate mortgage,behaviour_change,23.3,24.0,21.333333333333332,False
+2017-10-01,fixed rate mortgage,behaviour_change,22.3,25.0,21.833333333333332,False
+2017-11-01,fixed rate mortgage,behaviour_change,21.0,14.0,20.833333333333332,False
+2017-12-01,fixed rate mortgage,behaviour_change,16.0,9.0,19.666666666666668,False
+2018-01-01,fixed rate mortgage,behaviour_change,14.0,19.0,18.166666666666668,False
+2018-02-01,fixed rate mortgage,behaviour_change,17.3,24.0,19.166666666666668,False
+2018-03-01,fixed rate mortgage,behaviour_change,20.0,17.0,18.0,False
+2018-04-01,fixed rate mortgage,behaviour_change,19.3,17.0,16.666666666666668,False
+2018-05-01,fixed rate mortgage,behaviour_change,18.3,21.0,17.833333333333332,False
+2018-06-01,fixed rate mortgage,behaviour_change,17.7,15.0,18.833333333333332,False
+2018-07-01,fixed rate mortgage,behaviour_change,18.7,20.0,19.0,False
+2018-08-01,fixed rate mortgage,behaviour_change,17.7,18.0,18.0,False
+2018-09-01,fixed rate mortgage,behaviour_change,19.3,20.0,18.5,False
+2018-10-01,fixed rate mortgage,behaviour_change,18.0,16.0,18.333333333333332,False
+2018-11-01,fixed rate mortgage,behaviour_change,17.7,17.0,17.666666666666668,False
+2018-12-01,fixed rate mortgage,behaviour_change,13.3,7.0,16.333333333333332,False
+2019-01-01,fixed rate mortgage,behaviour_change,13.0,15.0,15.5,False
+2019-02-01,fixed rate mortgage,behaviour_change,12.3,15.0,15.0,False
+2019-03-01,fixed rate mortgage,behaviour_change,15.0,15.0,14.166666666666666,False
+2019-04-01,fixed rate mortgage,behaviour_change,17.0,21.0,15.0,False
+2019-05-01,fixed rate mortgage,behaviour_change,18.7,20.0,15.5,False
+2019-06-01,fixed rate mortgage,behaviour_change,22.0,25.0,18.5,False
+2019-07-01,fixed rate mortgage,behaviour_change,23.7,26.0,20.333333333333332,False
+2019-08-01,fixed rate mortgage,behaviour_change,25.3,25.0,22.0,False
+2019-09-01,fixed rate mortgage,behaviour_change,23.7,20.0,22.833333333333332,False
+2019-10-01,fixed rate mortgage,behaviour_change,26.0,33.0,24.833333333333332,False
+2019-11-01,fixed rate mortgage,behaviour_change,23.7,18.0,24.5,False
+2019-12-01,fixed rate mortgage,behaviour_change,21.3,13.0,22.5,False
+2020-01-01,fixed rate mortgage,behaviour_change,16.0,17.0,21.0,False
+2020-02-01,fixed rate mortgage,behaviour_change,15.7,17.0,19.666666666666668,False
+2020-03-01,fixed rate mortgage,behaviour_change,31.3,60.0,26.333333333333332,True
+2020-04-01,fixed rate mortgage,behaviour_change,45.3,59.0,30.666666666666668,True
+2020-05-01,fixed rate mortgage,behaviour_change,52.7,39.0,34.166666666666664,False
+2020-06-01,fixed rate mortgage,behaviour_change,47.3,44.0,39.333333333333336,False
+2020-07-01,fixed rate mortgage,behaviour_change,39.3,35.0,42.333333333333336,False
+2020-08-01,fixed rate mortgage,behaviour_change,39.0,38.0,45.833333333333336,False
+2020-09-01,fixed rate mortgage,behaviour_change,34.7,31.0,41.0,False
+2020-10-01,fixed rate mortgage,behaviour_change,32.7,29.0,36.0,False
+2020-11-01,fixed rate mortgage,behaviour_change,38.7,56.0,38.833333333333336,False
+2020-12-01,fixed rate mortgage,behaviour_change,37.7,28.0,36.166666666666664,False
+2021-01-01,fixed rate mortgage,behaviour_change,38.7,32.0,35.666666666666664,False
+2021-02-01,fixed rate mortgage,behaviour_change,34.3,43.0,36.5,False
+2021-03-01,fixed rate mortgage,behaviour_change,41.7,50.0,39.666666666666664,False
+2021-04-01,fixed rate mortgage,behaviour_change,46.7,47.0,42.666666666666664,False
+2021-05-01,fixed rate mortgage,behaviour_change,47.0,44.0,40.666666666666664,False
+2021-06-01,fixed rate mortgage,behaviour_change,44.0,41.0,42.833333333333336,False
+2021-07-01,fixed rate mortgage,behaviour_change,39.7,34.0,43.166666666666664,False
+2021-08-01,fixed rate mortgage,behaviour_change,34.0,27.0,40.5,False
+2021-09-01,fixed rate mortgage,behaviour_change,30.0,29.0,37.0,False
+2021-10-01,fixed rate mortgage,behaviour_change,30.7,36.0,35.166666666666664,False
+2021-11-01,fixed rate mortgage,behaviour_change,37.3,47.0,35.666666666666664,False
+2021-12-01,fixed rate mortgage,behaviour_change,37.0,28.0,33.5,False
+2022-01-01,fixed rate mortgage,behaviour_change,39.7,44.0,35.166666666666664,False
+2022-02-01,fixed rate mortgage,behaviour_change,39.0,45.0,38.166666666666664,False
+2022-03-01,fixed rate mortgage,behaviour_change,45.7,48.0,41.333333333333336,False
+2022-04-01,fixed rate mortgage,behaviour_change,52.0,63.0,45.833333333333336,False
+2022-05-01,fixed rate mortgage,behaviour_change,60.7,71.0,49.833333333333336,False
+2022-06-01,fixed rate mortgage,behaviour_change,70.7,78.0,58.166666666666664,False
+2022-07-01,fixed rate mortgage,behaviour_change,71.7,66.0,61.833333333333336,False
+2022-08-01,fixed rate mortgage,behaviour_change,64.3,49.0,62.5,False
+2022-09-01,fixed rate mortgage,behaviour_change,56.7,55.0,63.666666666666664,False
+2022-10-01,fixed rate mortgage,behaviour_change,50.7,48.0,61.166666666666664,False
+2022-11-01,fixed rate mortgage,behaviour_change,50.3,48.0,57.333333333333336,False
+2022-12-01,fixed rate mortgage,behaviour_change,44.7,38.0,50.666666666666664,False
+2023-01-01,fixed rate mortgage,behaviour_change,44.0,46.0,47.333333333333336,False
+2023-02-01,fixed rate mortgage,behaviour_change,51.3,70.0,50.833333333333336,False
+2023-03-01,fixed rate mortgage,behaviour_change,55.3,50.0,50.0,False
+2023-04-01,fixed rate mortgage,behaviour_change,52.0,36.0,48.0,False
+2023-05-01,fixed rate mortgage,behaviour_change,43.7,45.0,47.5,False
+2023-06-01,fixed rate mortgage,behaviour_change,50.0,69.0,52.666666666666664,False
+2023-07-01,fixed rate mortgage,behaviour_change,52.7,44.0,52.333333333333336,False
+2023-08-01,fixed rate mortgage,behaviour_change,46.7,27.0,45.166666666666664,False
+2023-09-01,fixed rate mortgage,behaviour_change,32.3,26.0,41.166666666666664,False
+2023-10-01,fixed rate mortgage,behaviour_change,25.7,24.0,39.166666666666664,False
+2023-11-01,fixed rate mortgage,behaviour_change,26.3,29.0,36.5,False
+2023-12-01,fixed rate mortgage,behaviour_change,23.0,16.0,27.666666666666668,False
+2024-01-01,fixed rate mortgage,behaviour_change,23.3,25.0,24.5,False
+2024-02-01,fixed rate mortgage,behaviour_change,21.3,23.0,23.833333333333332,False
+2024-03-01,fixed rate mortgage,behaviour_change,24.3,25.0,23.666666666666668,False
+2024-04-01,fixed rate mortgage,behaviour_change,24.7,26.0,24.0,False
+2024-05-01,fixed rate mortgage,behaviour_change,24.3,22.0,22.833333333333332,False
+2024-06-01,fixed rate mortgage,behaviour_change,22.7,20.0,23.5,False
+2024-07-01,fixed rate mortgage,behaviour_change,20.7,20.0,22.666666666666668,False
+2024-08-01,fixed rate mortgage,behaviour_change,20.3,21.0,22.333333333333332,False
+2024-09-01,fixed rate mortgage,behaviour_change,23.7,30.0,23.166666666666668,False
+2024-10-01,fixed rate mortgage,behaviour_change,25.0,24.0,22.833333333333332,False
+2024-11-01,fixed rate mortgage,behaviour_change,25.3,22.0,22.833333333333332,False
+2024-12-01,fixed rate mortgage,behaviour_change,21.0,17.0,22.333333333333332,False
+2025-01-01,fixed rate mortgage,behaviour_change,22.3,28.0,23.666666666666668,False
+2025-02-01,fixed rate mortgage,behaviour_change,25.3,31.0,25.333333333333332,False
+2025-03-01,fixed rate mortgage,behaviour_change,24.0,13.0,22.5,False
+2025-04-01,fixed rate mortgage,behaviour_change,21.3,20.0,21.833333333333332,False
+2025-05-01,fixed rate mortgage,behaviour_change,19.7,26.0,22.5,False
+2025-06-01,fixed rate mortgage,behaviour_change,21.7,19.0,22.833333333333332,False
+2025-07-01,fixed rate mortgage,behaviour_change,25.7,32.0,23.5,False
+2025-08-01,fixed rate mortgage,behaviour_change,28.0,33.0,23.833333333333332,False
+2025-09-01,fixed rate mortgage,behaviour_change,29.7,24.0,25.666666666666668,False
+2025-10-01,fixed rate mortgage,behaviour_change,27.7,26.0,26.666666666666668,False
+2025-11-01,fixed rate mortgage,behaviour_change,37.0,61.0,32.5,True
+2025-12-01,fixed rate mortgage,behaviour_change,59.0,90.0,44.333333333333336,True
+2026-01-01,fixed rate mortgage,behaviour_change,70.7,61.0,49.166666666666664,False
+2026-02-01,fixed rate mortgage,behaviour_change,71.0,62.0,54.0,False
+2026-03-01,fixed rate mortgage,behaviour_change,74.3,100.0,66.66666666666667,False
+2026-04-01,fixed rate mortgage,behaviour_change,82.3,85.0,76.5,False
+2026-05-01,fixed rate mortgage,behaviour_change,88.0,79.0,79.5,False
+2026-06-01,fixed rate mortgage,behaviour_change,70.7,48.0,72.5,False
+2015-01-01,mortgage stress,financial_stress,6.0,6.0,,False
+2015-02-01,mortgage stress,financial_stress,3.0,0.0,,False
+2015-03-01,mortgage stress,financial_stress,4.3,7.0,4.333333333333333,True
+2015-04-01,mortgage stress,financial_stress,2.3,0.0,3.25,False
+2015-05-01,mortgage stress,financial_stress,4.0,5.0,3.6,False
+2015-06-01,mortgage stress,financial_stress,4.0,7.0,4.166666666666667,True
+2015-07-01,mortgage stress,financial_stress,6.0,6.0,4.166666666666667,False
+2015-08-01,mortgage stress,financial_stress,6.0,5.0,5.0,False
+2015-09-01,mortgage stress,financial_stress,5.3,5.0,4.666666666666667,False
+2015-10-01,mortgage stress,financial_stress,6.3,9.0,6.166666666666667,False
+2015-11-01,mortgage stress,financial_stress,6.3,5.0,6.166666666666667,False
+2015-12-01,mortgage stress,financial_stress,7.0,7.0,6.166666666666667,False
+2016-01-01,mortgage stress,financial_stress,6.0,6.0,6.166666666666667,False
+2016-02-01,mortgage stress,financial_stress,6.7,7.0,6.5,False
+2016-03-01,mortgage stress,financial_stress,4.3,0.0,5.666666666666667,False
+2016-04-01,mortgage stress,financial_stress,5.0,8.0,5.5,False
+2016-05-01,mortgage stress,financial_stress,4.3,5.0,5.5,False
+2016-06-01,mortgage stress,financial_stress,4.3,0.0,4.333333333333333,False
+2016-07-01,mortgage stress,financial_stress,1.7,0.0,3.3333333333333335,False
+2016-08-01,mortgage stress,financial_stress,0.0,0.0,2.1666666666666665,False
+2016-09-01,mortgage stress,financial_stress,0.0,0.0,2.1666666666666665,False
+2016-10-01,mortgage stress,financial_stress,4.0,12.0,2.8333333333333335,True
+2016-11-01,mortgage stress,financial_stress,6.3,7.0,3.1666666666666665,True
+2016-12-01,mortgage stress,financial_stress,8.7,7.0,4.333333333333333,True
+2017-01-01,mortgage stress,financial_stress,8.0,10.0,6.0,True
+2017-02-01,mortgage stress,financial_stress,11.0,16.0,8.666666666666666,True
+2017-03-01,mortgage stress,financial_stress,13.0,13.0,10.833333333333334,False
+2017-04-01,mortgage stress,financial_stress,15.0,16.0,11.5,False
+2017-05-01,mortgage stress,financial_stress,16.3,20.0,13.666666666666666,False
+2017-06-01,mortgage stress,financial_stress,15.0,9.0,14.0,False
+2017-07-01,mortgage stress,financial_stress,15.7,18.0,15.333333333333334,False
+2017-08-01,mortgage stress,financial_stress,42.3,100.0,29.333333333333332,True
+2017-09-01,mortgage stress,financial_stress,47.0,23.0,31.0,False
+2017-10-01,mortgage stress,financial_stress,48.0,21.0,31.833333333333332,False
+2017-11-01,mortgage stress,financial_stress,20.0,16.0,31.166666666666668,False
+2017-12-01,mortgage stress,financial_stress,15.7,10.0,31.333333333333332,False
+2018-01-01,mortgage stress,financial_stress,14.3,17.0,31.166666666666668,False
+2018-02-01,mortgage stress,financial_stress,12.7,11.0,16.333333333333332,False
+2018-03-01,mortgage stress,financial_stress,15.7,19.0,15.666666666666666,False
+2018-04-01,mortgage stress,financial_stress,16.0,18.0,15.166666666666666,False
+2018-05-01,mortgage stress,financial_stress,16.3,12.0,14.5,False
+2018-06-01,mortgage stress,financial_stress,14.3,13.0,15.0,False
+2018-07-01,mortgage stress,financial_stress,16.0,23.0,16.0,False
+2018-08-01,mortgage stress,financial_stress,16.0,12.0,16.166666666666668,False
+2018-09-01,mortgage stress,financial_stress,21.3,29.0,17.833333333333332,True
+2018-10-01,mortgage stress,financial_stress,19.3,17.0,17.666666666666668,False
+2018-11-01,mortgage stress,financial_stress,19.7,13.0,17.833333333333332,False
+2018-12-01,mortgage stress,financial_stress,13.3,10.0,17.333333333333332,False
+2019-01-01,mortgage stress,financial_stress,11.7,12.0,15.5,False
+2019-02-01,mortgage stress,financial_stress,12.3,15.0,16.0,False
+2019-03-01,mortgage stress,financial_stress,13.3,13.0,13.333333333333334,False
+2019-04-01,mortgage stress,financial_stress,13.3,12.0,12.5,False
+2019-05-01,mortgage stress,financial_stress,12.3,12.0,12.333333333333334,False
+2019-06-01,mortgage stress,financial_stress,12.3,13.0,12.833333333333334,False
+2019-07-01,mortgage stress,financial_stress,12.7,13.0,13.0,False
+2019-08-01,mortgage stress,financial_stress,12.7,12.0,12.5,False
+2019-09-01,mortgage stress,financial_stress,10.7,7.0,11.5,False
+2019-10-01,mortgage stress,financial_stress,10.0,11.0,11.333333333333334,False
+2019-11-01,mortgage stress,financial_stress,7.7,5.0,10.166666666666666,False
+2019-12-01,mortgage stress,financial_stress,8.0,8.0,9.333333333333334,False
+2020-01-01,mortgage stress,financial_stress,8.7,13.0,9.333333333333334,False
+2020-02-01,mortgage stress,financial_stress,10.0,9.0,8.833333333333334,False
+2020-03-01,mortgage stress,financial_stress,11.0,11.0,9.5,False
+2020-04-01,mortgage stress,financial_stress,9.7,9.0,9.166666666666666,False
+2020-05-01,mortgage stress,financial_stress,10.0,10.0,10.0,False
+2020-06-01,mortgage stress,financial_stress,11.7,16.0,11.333333333333334,False
+2020-07-01,mortgage stress,financial_stress,14.0,16.0,11.833333333333334,False
+2020-08-01,mortgage stress,financial_stress,14.3,11.0,12.166666666666666,False
+2020-09-01,mortgage stress,financial_stress,15.7,20.0,13.666666666666666,False
+2020-10-01,mortgage stress,financial_stress,15.7,16.0,14.833333333333334,False
+2020-11-01,mortgage stress,financial_stress,14.7,8.0,14.5,False
+2020-12-01,mortgage stress,financial_stress,11.0,9.0,13.333333333333334,False
+2021-01-01,mortgage stress,financial_stress,7.0,4.0,11.333333333333334,False
+2021-02-01,mortgage stress,financial_stress,7.0,8.0,10.833333333333334,False
+2021-03-01,mortgage stress,financial_stress,7.3,10.0,9.166666666666666,False
+2021-04-01,mortgage stress,financial_stress,6.0,0.0,6.5,False
+2021-05-01,mortgage stress,financial_stress,10.3,21.0,8.666666666666666,True
+2021-06-01,mortgage stress,financial_stress,11.0,12.0,9.166666666666666,False
+2021-07-01,mortgage stress,financial_stress,13.3,7.0,9.666666666666666,False
+2021-08-01,mortgage stress,financial_stress,8.7,7.0,9.5,False
+2021-09-01,mortgage stress,financial_stress,10.0,16.0,10.5,True
+2021-10-01,mortgage stress,financial_stress,10.3,8.0,11.833333333333334,False
+2021-11-01,mortgage stress,financial_stress,12.7,14.0,10.666666666666666,False
+2021-12-01,mortgage stress,financial_stress,9.3,6.0,9.666666666666666,False
+2022-01-01,mortgage stress,financial_stress,6.7,0.0,8.5,False
+2022-02-01,mortgage stress,financial_stress,5.3,10.0,9.0,False
+2022-03-01,mortgage stress,financial_stress,8.7,16.0,9.0,True
+2022-04-01,mortgage stress,financial_stress,12.3,11.0,9.5,False
+2022-05-01,mortgage stress,financial_stress,18.0,27.0,11.666666666666666,True
+2022-06-01,mortgage stress,financial_stress,21.3,26.0,15.0,True
+2022-07-01,mortgage stress,financial_stress,26.3,26.0,19.333333333333332,False
+2022-08-01,mortgage stress,financial_stress,27.3,30.0,22.666666666666668,False
+2022-09-01,mortgage stress,financial_stress,24.3,17.0,22.833333333333332,False
+2022-10-01,mortgage stress,financial_stress,22.7,21.0,24.5,False
+2022-11-01,mortgage stress,financial_stress,19.0,19.0,23.166666666666668,False
+2022-12-01,mortgage stress,financial_stress,18.7,16.0,21.5,False
+2023-01-01,mortgage stress,financial_stress,17.7,18.0,20.166666666666668,False
+2023-02-01,mortgage stress,financial_stress,25.3,42.0,22.166666666666668,True
+2023-03-01,mortgage stress,financial_stress,29.0,27.0,23.833333333333332,False
+2023-04-01,mortgage stress,financial_stress,31.7,26.0,24.666666666666668,False
+2023-05-01,mortgage stress,financial_stress,23.7,18.0,24.5,False
+2023-06-01,mortgage stress,financial_stress,27.0,37.0,28.0,False
+2023-07-01,mortgage stress,financial_stress,28.7,31.0,30.166666666666668,False
+2023-08-01,mortgage stress,financial_stress,35.0,37.0,29.333333333333332,False
+2023-09-01,mortgage stress,financial_stress,31.0,25.0,29.0,False
+2023-10-01,mortgage stress,financial_stress,31.0,31.0,29.833333333333332,False
+2023-11-01,mortgage stress,financial_stress,30.0,34.0,32.5,False
+2023-12-01,mortgage stress,financial_stress,26.3,14.0,28.666666666666668,False
+2024-01-01,mortgage stress,financial_stress,21.0,15.0,26.0,False
+2024-02-01,mortgage stress,financial_stress,15.7,18.0,22.833333333333332,False
+2024-03-01,mortgage stress,financial_stress,16.7,17.0,21.5,False
+2024-04-01,mortgage stress,financial_stress,18.3,20.0,19.666666666666668,False
+2024-05-01,mortgage stress,financial_stress,20.7,25.0,18.166666666666668,False
+2024-06-01,mortgage stress,financial_stress,20.0,15.0,18.333333333333332,False
+2024-07-01,mortgage stress,financial_stress,18.7,16.0,18.5,False
+2024-08-01,mortgage stress,financial_stress,16.0,17.0,18.333333333333332,False
+2024-09-01,mortgage stress,financial_stress,15.7,14.0,17.833333333333332,False
+2024-10-01,mortgage stress,financial_stress,14.3,12.0,16.5,False
+2024-11-01,mortgage stress,financial_stress,14.3,17.0,15.166666666666666,False
+2024-12-01,mortgage stress,financial_stress,13.0,10.0,14.333333333333334,False
+2025-01-01,mortgage stress,financial_stress,13.3,13.0,13.833333333333334,False
+2025-02-01,mortgage stress,financial_stress,13.0,16.0,13.666666666666666,False
+2025-03-01,mortgage stress,financial_stress,13.7,12.0,13.333333333333334,False
+2025-04-01,mortgage stress,financial_stress,13.3,12.0,13.333333333333334,False
+2025-05-01,mortgage stress,financial_stress,12.3,13.0,12.666666666666666,False
+2025-06-01,mortgage stress,financial_stress,13.7,16.0,13.666666666666666,False
+2025-07-01,mortgage stress,financial_stress,14.7,15.0,14.0,False
+2025-08-01,mortgage stress,financial_stress,14.3,12.0,13.333333333333334,False
+2025-09-01,mortgage stress,financial_stress,12.0,9.0,12.833333333333334,False
+2025-10-01,mortgage stress,financial_stress,11.3,13.0,13.0,False
+2025-11-01,mortgage stress,financial_stress,14.0,20.0,14.166666666666666,False
+2025-12-01,mortgage stress,financial_stress,15.7,14.0,13.833333333333334,False
+2026-01-01,mortgage stress,financial_stress,16.3,15.0,13.833333333333334,False
+2026-02-01,mortgage stress,financial_stress,17.7,24.0,15.833333333333334,True
+2026-03-01,mortgage stress,financial_stress,20.7,23.0,18.166666666666668,False
+2026-04-01,mortgage stress,financial_stress,23.7,24.0,20.0,False
+2026-05-01,mortgage stress,financial_stress,45.7,90.0,31.666666666666668,True
+2026-06-01,mortgage stress,financial_stress,43.0,15.0,31.833333333333332,False
+2015-01-01,refinance home loan,behaviour_change,18.0,18.0,,False
+2015-02-01,refinance home loan,behaviour_change,17.5,17.0,,False
+2015-03-01,refinance home loan,behaviour_change,17.7,18.0,17.666666666666668,False
+2015-04-01,refinance home loan,behaviour_change,16.7,15.0,17.0,False
+2015-05-01,refinance home loan,behaviour_change,16.7,17.0,17.0,False
+2015-06-01,refinance home loan,behaviour_change,15.3,14.0,16.5,False
+2015-07-01,refinance home loan,behaviour_change,15.0,14.0,15.833333333333334,False
+2015-08-01,refinance home loan,behaviour_change,14.0,14.0,15.333333333333334,False
+2015-09-01,refinance home loan,behaviour_change,14.0,14.0,14.666666666666666,False
+2015-10-01,refinance home loan,behaviour_change,15.0,17.0,15.0,False
+2015-11-01,refinance home loan,behaviour_change,15.7,16.0,14.833333333333334,False
+2015-12-01,refinance home loan,behaviour_change,16.3,16.0,15.166666666666666,False
+2016-01-01,refinance home loan,behaviour_change,16.3,17.0,15.666666666666666,False
+2016-02-01,refinance home loan,behaviour_change,17.7,20.0,16.666666666666668,False
+2016-03-01,refinance home loan,behaviour_change,18.3,18.0,17.333333333333332,False
+2016-04-01,refinance home loan,behaviour_change,18.0,16.0,17.166666666666668,False
+2016-05-01,refinance home loan,behaviour_change,19.3,24.0,18.5,False
+2016-06-01,refinance home loan,behaviour_change,19.0,17.0,18.666666666666668,False
+2016-07-01,refinance home loan,behaviour_change,19.3,17.0,18.666666666666668,False
+2016-08-01,refinance home loan,behaviour_change,18.7,22.0,19.0,False
+2016-09-01,refinance home loan,behaviour_change,19.0,18.0,19.0,False
+2016-10-01,refinance home loan,behaviour_change,21.0,23.0,20.166666666666668,False
+2016-11-01,refinance home loan,behaviour_change,20.0,19.0,19.333333333333332,False
+2016-12-01,refinance home loan,behaviour_change,19.7,17.0,19.333333333333332,False
+2017-01-01,refinance home loan,behaviour_change,19.3,22.0,20.166666666666668,False
+2017-02-01,refinance home loan,behaviour_change,20.7,23.0,20.333333333333332,False
+2017-03-01,refinance home loan,behaviour_change,22.0,21.0,20.833333333333332,False
+2017-04-01,refinance home loan,behaviour_change,20.7,18.0,20.0,False
+2017-05-01,refinance home loan,behaviour_change,19.7,20.0,20.166666666666668,False
+2017-06-01,refinance home loan,behaviour_change,20.3,23.0,21.166666666666668,False
+2017-07-01,refinance home loan,behaviour_change,21.7,22.0,21.166666666666668,False
+2017-08-01,refinance home loan,behaviour_change,22.7,23.0,21.166666666666668,False
+2017-09-01,refinance home loan,behaviour_change,22.7,23.0,21.5,False
+2017-10-01,refinance home loan,behaviour_change,24.0,26.0,22.833333333333332,False
+2017-11-01,refinance home loan,behaviour_change,24.3,24.0,23.5,False
+2017-12-01,refinance home loan,behaviour_change,22.7,18.0,22.666666666666668,False
+2018-01-01,refinance home loan,behaviour_change,25.0,33.0,24.5,False
+2018-02-01,refinance home loan,behaviour_change,27.0,30.0,25.666666666666668,False
+2018-03-01,refinance home loan,behaviour_change,30.3,28.0,26.5,False
+2018-04-01,refinance home loan,behaviour_change,28.0,26.0,26.5,False
+2018-05-01,refinance home loan,behaviour_change,26.7,26.0,26.833333333333332,False
+2018-06-01,refinance home loan,behaviour_change,26.0,26.0,28.166666666666668,False
+2018-07-01,refinance home loan,behaviour_change,26.3,27.0,27.166666666666668,False
+2018-08-01,refinance home loan,behaviour_change,26.7,27.0,26.666666666666668,False
+2018-09-01,refinance home loan,behaviour_change,27.0,27.0,26.5,False
+2018-10-01,refinance home loan,behaviour_change,28.3,31.0,27.333333333333332,False
+2018-11-01,refinance home loan,behaviour_change,28.3,27.0,27.5,False
+2018-12-01,refinance home loan,behaviour_change,25.7,19.0,26.333333333333332,False
+2019-01-01,refinance home loan,behaviour_change,25.3,30.0,26.833333333333332,False
+2019-02-01,refinance home loan,behaviour_change,29.0,38.0,28.666666666666668,False
+2019-03-01,refinance home loan,behaviour_change,33.0,31.0,29.333333333333332,False
+2019-04-01,refinance home loan,behaviour_change,33.3,31.0,29.333333333333332,False
+2019-05-01,refinance home loan,behaviour_change,31.7,33.0,30.333333333333332,False
+2019-06-01,refinance home loan,behaviour_change,35.3,42.0,34.166666666666664,False
+2019-07-01,refinance home loan,behaviour_change,40.3,46.0,36.833333333333336,False
+2019-08-01,refinance home loan,behaviour_change,40.7,34.0,36.166666666666664,False
+2019-09-01,refinance home loan,behaviour_change,36.0,28.0,35.666666666666664,False
+2019-10-01,refinance home loan,behaviour_change,34.0,40.0,37.166666666666664,False
+2019-11-01,refinance home loan,behaviour_change,34.3,35.0,37.5,False
+2019-12-01,refinance home loan,behaviour_change,35.3,31.0,35.666666666666664,False
+2020-01-01,refinance home loan,behaviour_change,36.7,44.0,35.333333333333336,False
+2020-02-01,refinance home loan,behaviour_change,42.0,51.0,38.166666666666664,False
+2020-03-01,refinance home loan,behaviour_change,52.7,63.0,44.0,False
+2020-04-01,refinance home loan,behaviour_change,55.7,53.0,46.166666666666664,False
+2020-05-01,refinance home loan,behaviour_change,56.0,52.0,49.0,False
+2020-06-01,refinance home loan,behaviour_change,52.7,53.0,52.666666666666664,False
+2020-07-01,refinance home loan,behaviour_change,51.7,50.0,53.666666666666664,False
+2020-08-01,refinance home loan,behaviour_change,48.7,43.0,52.333333333333336,False
+2020-09-01,refinance home loan,behaviour_change,47.7,50.0,50.166666666666664,False
+2020-10-01,refinance home loan,behaviour_change,46.3,46.0,49.0,False
+2020-11-01,refinance home loan,behaviour_change,53.3,64.0,51.0,False
+2020-12-01,refinance home loan,behaviour_change,51.0,43.0,49.333333333333336,False
+2021-01-01,refinance home loan,behaviour_change,52.0,49.0,49.166666666666664,False
+2021-02-01,refinance home loan,behaviour_change,47.7,51.0,50.5,False
+2021-03-01,refinance home loan,behaviour_change,51.0,53.0,51.0,False
+2021-04-01,refinance home loan,behaviour_change,50.3,47.0,51.166666666666664,False
+2021-05-01,refinance home loan,behaviour_change,47.3,42.0,47.5,False
+2021-06-01,refinance home loan,behaviour_change,45.7,48.0,48.333333333333336,False
+2021-07-01,refinance home loan,behaviour_change,45.3,46.0,47.833333333333336,False
+2021-08-01,refinance home loan,behaviour_change,46.0,44.0,46.666666666666664,False
+2021-09-01,refinance home loan,behaviour_change,42.7,38.0,44.166666666666664,False
+2021-10-01,refinance home loan,behaviour_change,42.0,44.0,43.666666666666664,False
+2021-11-01,refinance home loan,behaviour_change,42.3,45.0,44.166666666666664,False
+2021-12-01,refinance home loan,behaviour_change,39.7,30.0,41.166666666666664,False
+2022-01-01,refinance home loan,behaviour_change,41.7,50.0,41.833333333333336,False
+2022-02-01,refinance home loan,behaviour_change,44.3,53.0,43.333333333333336,False
+2022-03-01,refinance home loan,behaviour_change,51.0,50.0,45.333333333333336,False
+2022-04-01,refinance home loan,behaviour_change,50.7,49.0,46.166666666666664,False
+2022-05-01,refinance home loan,behaviour_change,50.3,52.0,47.333333333333336,False
+2022-06-01,refinance home loan,behaviour_change,56.3,68.0,53.666666666666664,False
+2022-07-01,refinance home loan,behaviour_change,62.3,67.0,56.5,False
+2022-08-01,refinance home loan,behaviour_change,66.3,64.0,58.333333333333336,False
+2022-09-01,refinance home loan,behaviour_change,65.7,66.0,61.0,False
+2022-10-01,refinance home loan,behaviour_change,65.0,65.0,63.666666666666664,False
+2022-11-01,refinance home loan,behaviour_change,62.7,57.0,64.5,False
+2022-12-01,refinance home loan,behaviour_change,59.3,56.0,62.5,False
+2023-01-01,refinance home loan,behaviour_change,64.0,79.0,64.5,False
+2023-02-01,refinance home loan,behaviour_change,75.3,91.0,69.0,False
+2023-03-01,refinance home loan,behaviour_change,81.7,75.0,70.5,False
+2023-04-01,refinance home loan,behaviour_change,80.7,76.0,72.33333333333333,False
+2023-05-01,refinance home loan,behaviour_change,77.0,80.0,76.16666666666667,False
+2023-06-01,refinance home loan,behaviour_change,80.0,84.0,80.83333333333333,False
+2023-07-01,refinance home loan,behaviour_change,78.7,72.0,79.66666666666667,False
+2023-08-01,refinance home loan,behaviour_change,70.3,55.0,73.66666666666667,False
+2023-09-01,refinance home loan,behaviour_change,61.3,57.0,70.66666666666667,False
+2023-10-01,refinance home loan,behaviour_change,54.3,51.0,66.5,False
+2023-11-01,refinance home loan,behaviour_change,54.3,55.0,62.333333333333336,False
+2023-12-01,refinance home loan,behaviour_change,51.0,47.0,56.166666666666664,False
+2024-01-01,refinance home loan,behaviour_change,54.3,61.0,54.333333333333336,False
+2024-02-01,refinance home loan,behaviour_change,53.3,52.0,53.833333333333336,False
+2024-03-01,refinance home loan,behaviour_change,53.7,48.0,52.333333333333336,False
+2024-04-01,refinance home loan,behaviour_change,50.3,51.0,52.333333333333336,False
+2024-05-01,refinance home loan,behaviour_change,49.7,50.0,51.5,False
+2024-06-01,refinance home loan,behaviour_change,49.3,47.0,51.5,False
+2024-07-01,refinance home loan,behaviour_change,48.3,48.0,49.333333333333336,False
+2024-08-01,refinance home loan,behaviour_change,50.0,55.0,49.833333333333336,False
+2024-09-01,refinance home loan,behaviour_change,51.7,52.0,50.5,False
+2024-10-01,refinance home loan,behaviour_change,51.3,47.0,49.833333333333336,False
+2024-11-01,refinance home loan,behaviour_change,48.3,46.0,49.166666666666664,False
+2024-12-01,refinance home loan,behaviour_change,44.3,40.0,48.0,False
+2025-01-01,refinance home loan,behaviour_change,47.0,55.0,49.166666666666664,False
+2025-02-01,refinance home loan,behaviour_change,52.3,62.0,50.333333333333336,False
+2025-03-01,refinance home loan,behaviour_change,56.7,53.0,50.5,False
+2025-04-01,refinance home loan,behaviour_change,53.3,45.0,50.166666666666664,False
+2025-05-01,refinance home loan,behaviour_change,51.3,56.0,51.833333333333336,False
+2025-06-01,refinance home loan,behaviour_change,50.0,49.0,53.333333333333336,False
+2025-07-01,refinance home loan,behaviour_change,60.0,75.0,56.666666666666664,False
+2025-08-01,refinance home loan,behaviour_change,66.0,74.0,58.666666666666664,False
+2025-09-01,refinance home loan,behaviour_change,70.3,62.0,60.166666666666664,False
+2025-10-01,refinance home loan,behaviour_change,63.3,54.0,61.666666666666664,False
+2025-11-01,refinance home loan,behaviour_change,58.3,59.0,62.166666666666664,False
+2025-12-01,refinance home loan,behaviour_change,54.0,49.0,62.166666666666664,False
+2026-01-01,refinance home loan,behaviour_change,54.7,56.0,59.0,False
+2026-02-01,refinance home loan,behaviour_change,61.0,78.0,59.666666666666664,False
+2026-03-01,refinance home loan,behaviour_change,76.0,94.0,65.0,False
+2026-04-01,refinance home loan,behaviour_change,90.7,100.0,72.66666666666667,False
+2026-05-01,refinance home loan,behaviour_change,97.0,97.0,79.0,False
+2026-06-01,refinance home loan,behaviour_change,93.0,82.0,84.5,False
