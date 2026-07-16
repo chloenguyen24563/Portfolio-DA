@@ -31,18 +31,18 @@ Most commentary focuses on the rate decision itself. This project looks at what 
 
 ### Outcomes \& Recommendations
 
-**What the data tells us (Analytical Outcome):**
+**What the data tells us:**
 
 * Consumer confidence crashed **30.1 points** from pre-hike (avg 110.6) to during hiking cycle (avg 80.5).
 * After rate cuts began in 2025, confidence recovered only **1.6 points** to 82.1 — statistically negligible.
 * Google Trends data reveals search anxiety persists 2–3 months beyond what the headline index captures, suggesting the index overstates the pace of recovery.
 
-**Business Implications (Business Outcome):**
+**Business Implications:**
 
 * Organisations in retail, banking, property, and FMCG that are planning revenue recovery based on the ANZ headline index may be significantly ahead of actual consumer readiness.
 * The near-zero recovery in sentiment post-cut suggests structural factors (cost of living, accumulated debt stress) are dampening the usual stimulus effect of rate cuts.
 
-**Recommendations (BA Thinking):**
+**Recommendations:**
 
 1. Businesses should supplement ANZ sentiment data with real-time Google Trends signals for a more accurate read on actual consumer mood.
 2. Marketing and commercial teams should delay "recovery cycle" messaging until both the sentiment index AND search anxiety normalise simultaneously — using one signal alone is insufficient.
@@ -95,19 +95,19 @@ Government employment projections shape policy, skills funding, and migration in
 
 ### Outcomes \& Recommendations
 
-**What the data tells us (Analytical Outcome):**
+**What the data tells us:**
 
 * The gap between actual YoY growth (12.36%) and JSA projected annual growth (1.94%) for Professional \& Technical Services is the largest discrepancy across all 19 industries analysed.
 * 3 of 19 industries fall in the "High Now + High Projected" quadrant — these represent the most resilient employment sectors through 2030.
 * Rental \& Real Estate shows the largest negative divergence: projected 1.39%/yr growth but actual YoY of -15.97% — a significant red flag for workforce planning in that sector.
 
-**Business Implications (Business Outcome):**
+**Business Implications:**
 
 * Skills funding and training programs calibrated to JSA projections may be systematically underinvesting in tech roles relative to actual market demand.
 * Skilled migration intake for ICT occupations may be insufficient given the gap between projected and actual growth.
 * Organisations in Rental \& Real Estate should treat JSA projections with caution — actual data suggests a contraction that government figures do not reflect.
 
-**Recommendations (BA Thinking):**
+**Recommendations:**
 
 1. Workforce planners and policy makers should incorporate quarterly ABS actuals as a validation layer on top of 5-year JSA projections — annual recalibration is insufficient given the speed of change in tech sectors.
 2. Skills funding bodies (TAFE, industry training packages) should reallocate resources toward Professional \& Technical Services roles — current demand outpaces supply by a 6x margin.
@@ -146,18 +146,18 @@ Portfolio-DA/
 ├── requirements.txt
 ├── data/
 │   └── raw/
-│       ├── rba\_decisions.csv
-│       ├── sentiment\_index.csv
-│       ├── google\_trends.csv
-│       ├── abs\_labour\_force.csv
-│       └── jsa\_projections.csv
+│       ├── rba\\\_decisions.csv
+│       ├── sentiment\\\_index.csv
+│       ├── google\\\_trends.csv
+│       ├── abs\\\_labour\\\_force.csv
+│       └── jsa\\\_projections.csv
 ├── src/
-│   ├── app\_rba\_sentiment.py       # Streamlit app — Project 1
-│   ├── app\_workforce\_shift.py     # Streamlit app — Project 2
-│   └── process\_all\_real\_data.py   # Data processing pipeline
+│   ├── app\\\_rba\\\_sentiment.py       # Streamlit app — Project 1
+│   ├── app\\\_workforce\\\_shift.py     # Streamlit app — Project 2
+│   └── process\\\_all\\\_real\\\_data.py   # Data processing pipeline
 └── notebooks/
-    ├── 01\_sql\_analysis.ipynb      # SQL queries \& analysis
-    └── 02\_Visualization.ipynb     # Python visualisations
+    ├── 01\\\_sql\\\_analysis.ipynb      # SQL queries \\\& analysis
+    └── 02\\\_Visualization.ipynb     # Python visualisations
 ```
 
 \---
@@ -173,10 +173,10 @@ cd Portfolio-DA
 pip install -r requirements.txt
 
 # Run Project 1
-streamlit run src/app\_rba\_sentiment.py
+streamlit run src/app\\\_rba\\\_sentiment.py
 
 # Run Project 2 
-streamlit run src/app\_workforce\_shift.py --server.port 8502
+streamlit run src/app\\\_workforce\\\_shift.py --server.port 8502
 ```
 
 \---
