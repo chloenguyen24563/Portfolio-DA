@@ -12,7 +12,7 @@
 
 ## Project 1: RBA Rate Decisions \& Consumer Confidence
 
-#### 🔴 [Live Dashboard →](https://portfolio-da-dt2mx6btl5a4kuybykikvc.streamlit.app/)
+##### 🔴 [Live Dashboard →](https://portfolio-da-dt2mx6btl5a4kuybykikvc.streamlit.app/)
 
 ### The Question
 
@@ -76,7 +76,7 @@ Most commentary focuses on the rate decision itself. This project looks at what 
 
 ## Project 2: Australian Workforce Shift 2025–2030
 
-#### 🔴 [Live Dashboard →](https://portfolio-da-gyaaptrni7jameapcexlfp.streamlit.app/)
+##### 🔴 [Live Dashboard →](https://portfolio-da-gyaaptrni7jameapcexlfp.streamlit.app/)
 
 ### The Question
 
