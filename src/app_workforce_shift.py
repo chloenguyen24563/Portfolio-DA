@@ -7,6 +7,14 @@ Chạy: streamlit run src/app_workforce_shift.py
 """
 
 import streamlit as st
+st.markdown("""
+    <style>
+    h1 {font-size: 30px !important;}
+    h2 {font-size: 22px !important;}
+    h3 {font-size: 15px !important;}
+    p, div, span {font-size: 13px !important;}
+    </style>
+""", unsafe_allow_html=True)
 import pandas as pd
 import plotly.express as px
 import plotly.graph_objects as go
