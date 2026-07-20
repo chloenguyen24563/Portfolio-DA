@@ -1,4 +1,4 @@
-# 📊 Australian Economic \& Workforce Analytics Portfolio
+# Australian Economic \& Workforce Analytics Portfolio
 
 **Chloe Nguyen | Business \& Data Analyst | Sydney, Australia**
 
@@ -10,7 +10,7 @@
 
 \---
 
-## 🏦 Project 1: RBA Rate Decisions \& Consumer Confidence
+## Project 1: RBA Rate Decisions \& Consumer Confidence
 
 ### 🔴 [Live Dashboard →](https://portfolio-da-dt2mx6btl5a4kuybykikvc.streamlit.app/)
 
@@ -74,7 +74,7 @@ Most commentary focuses on the rate decision itself. This project looks at what 
 
 \---
 
-## 📈 Project 2: Australian Workforce Shift 2025–2030
+## Project 2: Australian Workforce Shift 2025–2030
 
 ### 🔴 [Live Dashboard →](https://portfolio-da-gyaaptrni7jameapcexlfp.streamlit.app/)
 
@@ -138,7 +138,7 @@ Government employment projections shape policy, skills funding, and migration in
 
 \---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
 Portfolio-DA/
@@ -162,7 +162,7 @@ Portfolio-DA/
 
 \---
 
-## 🚀 Run Locally
+## Run Locally
 
 ```bash
 # Clone repo
@@ -181,7 +181,7 @@ streamlit run src/app\\\_workforce\\\_shift.py --server.port 8502
 
 \---
 
-## 👤 About
+## About
 
 **Chloe Nguyen** — Business \& Data Analyst based in Sydney, Australia
 
