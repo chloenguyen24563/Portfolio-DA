@@ -1,7 +1,7 @@
 """
 process_all_real_data.py
 ========================
-Xử lý tất cả data thật từ /Users/Chloe/Downloads/Project/
+Process all real data from /Users/Chloe/Downloads/Project/
 
 Input files:
     RBA Cash Rate.xlsx          → data/raw/rba_decisions.csv
@@ -35,8 +35,8 @@ print("=" * 55)
 
 
 # ══════════════════════════════════════════════════════
-# 1. RBA CASH RATE — data thật từ rba.gov.au
-#    Sheet: Data, data bắt đầu từ row 11
+# 1. RBA CASH RATE — real data from rba.gov.au
+#    Sheet: Data, data starts from row 11
 #    Columns: date, Cash Rate Target, Change in Cash Rate
 # ══════════════════════════════════════════════════════
 print("\n[1/5] RBA Cash Rate...")
@@ -55,14 +55,14 @@ rba_raw["rate_change"]= pd.to_numeric(rba_raw["rate_change"], errors="coerce")
 rba_raw = rba_raw.dropna(subset=["date", "cash_rate"])
 rba_raw = rba_raw[rba_raw["date"] >= "2015-01-01"]
 
-# Chỉ lấy ngày có rate change (RBA decision days)
-# Lấy first day of each month để deduplicate
+# RBA decision days)
+# Take first day of each month to deduplicate
 rba_raw["month"] = rba_raw["date"].dt.to_period("M")
 
-# Lấy ngày đầu tiên trong tháng có rate change khác 0
+# Take the first day of the month when the rate change is not zero.
 decisions = rba_raw[rba_raw["rate_change"].notna() & (rba_raw["rate_change"] != 0)].copy()
 
-# Nếu không có rate change, lấy 1 record/tháng (hold)
+# If there is no rate change, take 1 record/month (hold).
 monthly = rba_raw.sort_values("date").drop_duplicates("month", keep="first")
 monthly = monthly.merge(
     decisions[["month","rate_change"]].rename(columns={"rate_change":"actual_change"}),
@@ -99,7 +99,7 @@ print(f"  Rate range: {rba_out['new_rate'].min()}% → {rba_out['new_rate'].max(
 # 2. ANZ-ROY MORGAN CONSUMER CONFIDENCE
 #    Sheet: Sheet1
 #    Format: Wide — YEAR | JAN | FEB | ... | DEC | YEARLY AVERAGE
-#    Melt sang long format, monthly
+#    Melt to long format, monthly
 # ══════════════════════════════════════════════════════
 print("\n[2/5] ANZ-Roy Morgan Consumer Confidence...")
 
@@ -161,7 +161,7 @@ print(f"  Pessimistic months (<100): {sent['is_pessimistic'].sum()} "
 
 # ══════════════════════════════════════════════════════
 # 3. GOOGLE TRENDS CSVs
-#    5 keywords — đã download thủ công từ trends.google.com.au
+#    5 keywords — manually downloaded from trends.google.com.au
 #    Format: date, keyword_value (weekly)
 # ══════════════════════════════════════════════════════
 print("\n[3/5] Google Trends (5 CSV files)...")
